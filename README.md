@@ -26,7 +26,7 @@ Resultados: O script cria um DataFrame com os resultados da clusterização, con
 ![image](https://github.com/user-attachments/assets/770cdbda-67f4-4c4d-a878-ff07e36f333f)
 
 
-##Código
+## Código
 Aqui está um exemplo do código usado para a clusterização:
 ```bash
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -66,14 +66,10 @@ for i in range(len(centroids)):
 resultados
 ```
 
-##Contribuições
+## Contribuições
 Sinta-se à vontade para contribuir com melhorias e correções. Faça um fork do repositório, crie uma branch para sua feature, e envie um pull request com suas alterações.
 
-##Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT.
 
 Agora você pode copiar o conteúdo inteiro diretamente para o seu arquivo `README.md`. Se precisar de mais ajustes, é só me avisar!
-
-
-
-```
